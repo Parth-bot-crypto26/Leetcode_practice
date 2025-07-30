@@ -33,5 +33,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1078-remove-outermost-parentheses](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/1078-remove-outermost-parentheses) |
 | [1205-defanging-an-ip-address](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/1205-defanging-an-ip-address) |
+## Stack
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/1078-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
