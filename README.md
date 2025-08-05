@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0011-container-with-most-water) |
 | [0605-can-place-flowers](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0605-can-place-flowers) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0965-unique-email-addresses](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0965-unique-email-addresses) |
 | [1319-unique-number-of-occurrences](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/1319-unique-number-of-occurrences) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
