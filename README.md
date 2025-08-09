@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0022-generate-parentheses) |
 | [0965-unique-email-addresses](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0965-unique-email-addresses) |
 | [1078-remove-outermost-parentheses](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/1078-remove-outermost-parentheses) |
 | [1205-defanging-an-ip-address](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/1205-defanging-an-ip-address) |
@@ -67,4 +68,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0022-generate-parentheses) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
