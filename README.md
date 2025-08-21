@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0022-generate-parentheses) |
+| [0521-longest-uncommon-subsequence-i](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0822-unique-morse-code-words](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0822-unique-morse-code-words) |
 | [0965-unique-email-addresses](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0965-unique-email-addresses) |
 | [1078-remove-outermost-parentheses](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/1078-remove-outermost-parentheses) |
