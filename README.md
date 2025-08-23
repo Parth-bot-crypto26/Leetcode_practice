@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0119-pascals-triangle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0349-intersection-of-two-arrays) |
+| [0463-island-perimeter](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0463-island-perimeter) |
 | [0605-can-place-flowers](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0605-can-place-flowers) |
 | [0682-baseball-game](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0682-baseball-game) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0036-valid-sudoku) |
+| [0463-island-perimeter](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0463-island-perimeter) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 ## Simulation
 |  |
@@ -110,4 +112,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-new-21-game](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0867-new-21-game) |
+## Depth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0463-island-perimeter) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0463-island-perimeter) |
 <!---LeetCode Topics End-->
