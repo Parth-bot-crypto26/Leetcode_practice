@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0011-container-with-most-water) |
+| [0035-search-insert-position](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0046-permutations) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0349-intersection-of-two-arrays) |
 ## Math
