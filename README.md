@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0463-island-perimeter](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0463-island-perimeter) |
 | [0605-can-place-flowers](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0682-baseball-game) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0822-unique-morse-code-words](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0822-unique-morse-code-words) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0643-maximum-average-subarray-i) |
 | [0867-new-21-game](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0867-new-21-game) |
 ## Probability and Statistics
 |  |
