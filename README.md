@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-new-21-game](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0867-new-21-game) |
+| [3830-find-closest-person](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/3830-find-closest-person) |
 ## Sliding Window
 |  |
 | ------- |
