@@ -190,5 +190,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1462-list-the-products-ordered-in-a-period](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1541-top-travellers](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/1541-top-travellers) |
+| [1801-average-time-of-process-per-machine](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/1801-average-time-of-process-per-machine) |
 | [1892-find-total-time-spent-by-each-employee](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/1892-find-total-time-spent-by-each-employee) |
 <!---LeetCode Topics End-->
