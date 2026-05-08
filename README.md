@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0046-permutations) |
 | [0119-pascals-triangle-ii](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0119-pascals-triangle-ii) |
+| [0136-single-number](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0136-single-number) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 ## Brainteaser
 |  |
