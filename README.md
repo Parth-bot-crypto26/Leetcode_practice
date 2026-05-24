@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0682-baseball-game) |
+| [1103-distribute-candies-to-people](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/1103-distribute-candies-to-people) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 ## Two Pointers
 |  |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0009-palindrome-number) |
 | [0867-new-21-game](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0867-new-21-game) |
+| [1103-distribute-candies-to-people](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/1103-distribute-candies-to-people) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [3830-find-closest-person](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/3830-find-closest-person) |
 ## Sliding Window
