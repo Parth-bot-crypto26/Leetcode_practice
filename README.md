@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/1319-unique-number-of-occurrences) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1800-maximum-ascending-subarray-sum](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/1800-maximum-ascending-subarray-sum) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Greedy
 |  |
