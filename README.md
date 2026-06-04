@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0414-third-maximum-number) |
 | [0463-island-perimeter](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0463-island-perimeter) |
 | [0500-keyboard-row](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0414-third-maximum-number) |
 | [0958-sort-array-by-parity-ii](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0958-sort-array-by-parity-ii) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
