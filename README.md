@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0050-powx-n) |
 | [0867-new-21-game](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0867-new-21-game) |
 | [1103-distribute-candies-to-people](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/1103-distribute-candies-to-people) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -241,4 +242,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
