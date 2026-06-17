@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0349-intersection-of-two-arrays) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0125-valid-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0459-repeated-substring-pattern) |
 | [0500-keyboard-row](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0500-keyboard-row) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0521-longest-uncommon-subsequence-i) |
