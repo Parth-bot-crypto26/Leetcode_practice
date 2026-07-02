@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0046-permutations) |
+| [0054-spiral-matrix](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0075-sort-colors) |
 | [0119-pascals-triangle-ii](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0136-single-number) |
@@ -69,11 +70,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0054-spiral-matrix) |
 | [0463-island-perimeter](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0463-island-perimeter) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0054-spiral-matrix) |
 | [0682-baseball-game](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0682-baseball-game) |
 | [1103-distribute-candies-to-people](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/1103-distribute-candies-to-people) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
