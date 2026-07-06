@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0219-contains-duplicate-ii) |
+| [0290-word-pattern](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0500-keyboard-row](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0500-keyboard-row) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0125-valid-palindrome) |
 | [0257-binary-tree-paths](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0257-binary-tree-paths) |
+| [0290-word-pattern](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0290-word-pattern) |
 | [0459-repeated-substring-pattern](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0459-repeated-substring-pattern) |
 | [0500-keyboard-row](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0500-keyboard-row) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0521-longest-uncommon-subsequence-i) |
