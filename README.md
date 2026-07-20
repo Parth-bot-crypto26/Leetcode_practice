@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0054-spiral-matrix) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0054-spiral-matrix) |
 | [0463-island-perimeter](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0463-island-perimeter) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0509-fibonacci-number) |
 | [0867-new-21-game](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0867-new-21-game) |
