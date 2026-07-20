@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0958-sort-array-by-parity-ii) |
 | [0965-unique-email-addresses](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0965-unique-email-addresses) |
+| [1260-shift-2d-grid](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/1260-shift-2d-grid) |
 | [1319-unique-number-of-occurrences](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/1319-unique-number-of-occurrences) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0054-spiral-matrix) |
 | [0463-island-perimeter](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0463-island-perimeter) |
+| [1260-shift-2d-grid](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/1260-shift-2d-grid) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 ## Simulation
 |  |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0054-spiral-matrix) |
 | [0682-baseball-game](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0682-baseball-game) |
 | [1103-distribute-candies-to-people](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/1103-distribute-candies-to-people) |
+| [1260-shift-2d-grid](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/1260-shift-2d-grid) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Two Pointers
