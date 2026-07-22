@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0196-delete-duplicate-emails](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0196-delete-duplicate-emails) |
 | [0577-employee-bonus](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0584-find-customer-referee) |
+| [0596-classes-with-at-least-5-students](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0596-classes-with-at-least-5-students) |
 | [0619-biggest-single-number](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0620-not-boring-movies) |
 | [0626-exchange-seats](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0626-exchange-seats) |
