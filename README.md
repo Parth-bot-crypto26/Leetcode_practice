@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0605-can-place-flowers) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0704-binary-search) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0414-third-maximum-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0958-sort-array-by-parity-ii](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0958-sort-array-by-parity-ii) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0867-new-21-game](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0867-new-21-game) |
 | [1103-distribute-candies-to-people](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/1103-distribute-candies-to-people) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/1344-angle-between-hands-of-a-clock) |
