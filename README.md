@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0257-binary-tree-paths](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0404-sum-of-left-leaves) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0463-island-perimeter](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0463-island-perimeter) |
 ## Breadth-First Search
 |  |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0206-reverse-linked-list) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Database
 |  |
 | ------- |
@@ -315,4 +317,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0509-fibonacci-number) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
