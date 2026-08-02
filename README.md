@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0682-baseball-game) |
+| [0901-online-stock-span](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0901-online-stock-span) |
 | [1078-remove-outermost-parentheses](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/1078-remove-outermost-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Sorting
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0303-range-sum-query-immutable) |
+| [0901-online-stock-span](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0901-online-stock-span) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -332,4 +334,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0062-unique-paths) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
