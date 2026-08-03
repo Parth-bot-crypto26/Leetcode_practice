@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/1260-shift-2d-grid) |
 | [1319-unique-number-of-occurrences](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/1319-unique-number-of-occurrences) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
+| [1406-stone-game-iii](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/1406-stone-game-iii) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/1800-maximum-ascending-subarray-sum) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0119-pascals-triangle-ii) |
 | [0509-fibonacci-number](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0509-fibonacci-number) |
 | [0867-new-21-game](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0867-new-21-game) |
+| [1406-stone-game-iii](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/1406-stone-game-iii) |
 ## Binary Search
 |  |
 | ------- |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-new-21-game](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0867-new-21-game) |
 | [1103-distribute-candies-to-people](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/1103-distribute-candies-to-people) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1406-stone-game-iii](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/1406-stone-game-iii) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [3830-find-closest-person](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/3830-find-closest-person) |
 ## Sliding Window
@@ -342,4 +345,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0901-online-stock-span) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/1406-stone-game-iii) |
+## Game Theory
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
