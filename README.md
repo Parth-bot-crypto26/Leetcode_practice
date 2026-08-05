@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0287-find-the-duplicate-number) |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0169-majority-element) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0315-count-of-smaller-numbers-after-self) |
