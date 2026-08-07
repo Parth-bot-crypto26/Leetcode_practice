@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0090-subsets-ii) |
 | [0119-pascals-triangle-ii](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0136-single-number) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0054-spiral-matrix) |
+| [0079-word-search](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0079-word-search) |
 | [0463-island-perimeter](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0463-island-perimeter) |
 | [1260-shift-2d-grid](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/1260-shift-2d-grid) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0058-length-of-last-word) |
+| [0079-word-search](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0257-binary-tree-paths) |
@@ -181,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0090-subsets-ii) |
 | [0257-binary-tree-paths](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0257-binary-tree-paths) |
 ## Dynamic Programming
@@ -236,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0079-word-search) |
 | [0257-binary-tree-paths](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0404-sum-of-left-leaves) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
