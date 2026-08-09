@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0958-sort-array-by-parity-ii) |
 | [0965-unique-email-addresses](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0965-unique-email-addresses) |
+| [1140-stone-game-ii](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/1260-shift-2d-grid) |
 | [1319-unique-number-of-occurrences](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/1319-unique-number-of-occurrences) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0119-pascals-triangle-ii) |
 | [0509-fibonacci-number](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0509-fibonacci-number) |
 | [0867-new-21-game](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0867-new-21-game) |
+| [1140-stone-game-ii](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/1406-stone-game-iii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Binary Search
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0867-new-21-game](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0867-new-21-game) |
 | [1103-distribute-candies-to-people](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/1103-distribute-candies-to-people) |
+| [1140-stone-game-ii](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/1140-stone-game-ii) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1406-stone-game-iii](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/1406-stone-game-iii) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -340,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0303-range-sum-query-immutable) |
+| [1140-stone-game-ii](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/1140-stone-game-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -374,14 +378,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/1406-stone-game-iii) |
 ## Game Theory
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/1406-stone-game-iii) |
 ## Binary Indexed Tree
 |  |
