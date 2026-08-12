@@ -1,42 +1,27 @@
 class Solution {
-public:
-    vector<string> letterCombinations(string digits) {
-        vector<string> result;
-        if (digits.empty()) {
-            return result;
-        }
-
-        map<char, string> phoneMap;
-        phoneMap['2'] = "abc";
-        phoneMap['3'] = "def";
-        phoneMap['4'] = "ghi";
-        phoneMap['5'] = "jkl";
-        phoneMap['6'] = "mno";
-        phoneMap['7'] = "pqrs";
-        phoneMap['8'] = "tuv";
-        phoneMap['9'] = "wxyz";
-
-        string currentCombination = "";
-        
-        backtrack(digits, 0, phoneMap, currentCombination, result);
-        
-        return result;
-    }
-
-private:
-    void backtrack(const string& digits, int index, const map<char, string>& phoneMap, string& currentCombination, vector<string>& result) {
-        if (index == digits.length()) {
-            result.push_back(currentCombination);
+    void backtrack(int index, const string& digits, string& current, const vector<string>& mapping, vector<string>& result){
+        if(index == digits.length()){
+            result.push_back(current);
             return;
         }
-
-        char digit = digits[index];
-        string letters = phoneMap.at(digit);
-
-        for (char letter : letters) {
-            currentCombination.push_back(letter);
-            backtrack(digits, index + 1, phoneMap, currentCombination, result);
-            currentCombination.pop_back(); 
-        }
+        string letters = mapping[digits[index]-'0'];
+        for(char c : letters){
+            current.push_back(c);
+            backtrack(index+1, digits, current, mapping, result);
+            current.pop_back();
+        } 
+    }
+public:
+    vector<string> letterCombinations(string digits) {
+        if(digits.empty()) return {};
+        vector<string> mapping = {
+            "", " ", "abc", "def",
+            "ghi", "jkl", "mno", "pqrs",
+            "tuv", "wxyz"
+        };
+        vector<string> result;
+        string current = "";
+        backtrack(0, digits, current, mapping, result);
+        return result;
     }
 };
