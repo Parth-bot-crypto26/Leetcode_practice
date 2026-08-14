@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/1319-unique-number-of-occurrences) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Matrix
 |  |
 | ------- |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/1078-remove-outermost-parentheses) |
 | [1205-defanging-an-ip-address](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/1205-defanging-an-ip-address) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Stack
 |  |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0643-maximum-average-subarray-i) |
 | [0867-new-21-game](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0867-new-21-game) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Probability and Statistics
 |  |
 | ------- |
