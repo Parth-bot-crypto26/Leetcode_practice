@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0036-valid-sudoku) |
 | [0141-linked-list-cycle](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0242-valid-anagram) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0025-reverse-nodes-in-k-group) |
 | [0141-linked-list-cycle](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0206-reverse-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Database
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0303-range-sum-query-immutable) |
 | [0901-online-stock-span](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0901-online-stock-span) |
@@ -378,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0146-lru-cache) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Combinatorics
 |  |
