@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1344-angle-between-hands-of-a-clock](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1406-stone-game-iii](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/1406-stone-game-iii) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3830-find-closest-person](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/3830-find-closest-person) |
 ## Sliding Window
 |  |
