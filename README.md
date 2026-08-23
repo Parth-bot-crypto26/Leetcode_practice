@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0011-container-with-most-water) |
 | [0605-can-place-flowers](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0605-can-place-flowers) |
+| [1927-sum-game](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/1927-sum-game) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Hash Table
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/1078-remove-outermost-parentheses) |
 | [1205-defanging-an-ip-address](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/1205-defanging-an-ip-address) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [1927-sum-game](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/1927-sum-game) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Stack
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1344-angle-between-hands-of-a-clock](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1406-stone-game-iii](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/1406-stone-game-iii) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
+| [1927-sum-game](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3830-find-closest-person](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/3830-find-closest-person) |
 ## Sliding Window
@@ -413,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/1406-stone-game-iii) |
+| [1927-sum-game](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/1927-sum-game) |
 ## Zero-Sum Game
 |  |
 | ------- |
