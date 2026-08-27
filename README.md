@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1205-defanging-an-ip-address](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/1205-defanging-an-ip-address) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1927-sum-game](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/1927-sum-game) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Stack
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0643-maximum-average-subarray-i) |
 | [0867-new-21-game](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0867-new-21-game) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Probability and Statistics
 |  |
