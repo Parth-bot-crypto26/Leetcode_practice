@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0036-valid-sudoku) |
 | [0141-linked-list-cycle](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0141-linked-list-cycle) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0005-longest-palindromic-substring) |
+| [0012-integer-to-roman](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0022-generate-parentheses) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0062-unique-paths) |
