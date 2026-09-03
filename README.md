@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0303-range-sum-query-immutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0315-count-of-smaller-numbers-after-self) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0643-maximum-average-subarray-i) |
 | [0867-new-21-game](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0867-new-21-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -463,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0084-largest-rectangle-in-histogram) |
+| [0239-sliding-window-maximum](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0239-sliding-window-maximum) |
 ## Manacher
 |  |
 | ------- |
@@ -470,5 +473,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0387-first-unique-character-in-a-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
