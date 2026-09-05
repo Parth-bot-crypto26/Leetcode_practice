@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1800-maximum-ascending-subarray-sum](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1872-stone-game-viii](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/1872-stone-game-viii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3904-smallest-stable-index-ii](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/3904-smallest-stable-index-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0303-range-sum-query-immutable) |
 | [1140-stone-game-ii](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/1140-stone-game-ii) |
 | [1872-stone-game-viii](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/1872-stone-game-viii) |
+| [3904-smallest-stable-index-ii](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/3904-smallest-stable-index-ii) |
 ## Recursion
 |  |
 | ------- |
