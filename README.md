@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1872-stone-game-viii](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/1872-stone-game-viii) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/3904-smallest-stable-index-ii) |
 ## Greedy
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/3483-unique-3-digit-even-numbers) |
 ## Matrix
 |  |
 | ------- |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/3483-unique-3-digit-even-numbers) |
 ## Tree
 |  |
 | ------- |
@@ -399,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0509-fibonacci-number) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/3483-unique-3-digit-even-numbers) |
 ## Memoization
 |  |
 | ------- |
