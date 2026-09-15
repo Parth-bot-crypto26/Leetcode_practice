@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0011-container-with-most-water) |
 | [0605-can-place-flowers](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0605-can-place-flowers) |
 | [1927-sum-game](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/1927-sum-game) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Hash Table
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0541-reverse-string-ii](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0541-reverse-string-ii) |
 | [0958-sort-array-by-parity-ii](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0958-sort-array-by-parity-ii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## String
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1205-defanging-an-ip-address](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/1205-defanging-an-ip-address) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1927-sum-game](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/1927-sum-game) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -236,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/1406-stone-game-iii) |
 | [1872-stone-game-viii](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/1872-stone-game-viii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Binary Search
 |  |
