@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0222-count-complete-tree-nodes](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0287-find-the-duplicate-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0349-intersection-of-two-arrays](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0349-intersection-of-two-arrays) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0136-single-number) |
+| [0222-count-complete-tree-nodes](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0389-find-the-difference) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
@@ -330,12 +332,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0222-count-complete-tree-nodes) |
 | [0257-binary-tree-paths](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0404-sum-of-left-leaves) |
 ## Binary Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0222-count-complete-tree-nodes) |
 | [0257-binary-tree-paths](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0404-sum-of-left-leaves) |
 ## Linked List
