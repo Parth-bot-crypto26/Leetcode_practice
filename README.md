@@ -301,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0404-sum-of-left-leaves) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0463-island-perimeter](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0463-island-perimeter) |
+| [0543-diameter-of-binary-tree](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0222-count-complete-tree-nodes) |
 | [0257-binary-tree-paths](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0404-sum-of-left-leaves) |
+| [0543-diameter-of-binary-tree](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
 |  |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0222-count-complete-tree-nodes) |
 | [0257-binary-tree-paths](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0404-sum-of-left-leaves) |
+| [0543-diameter-of-binary-tree](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0572-subtree-of-another-tree) |
 ## Linked List
 |  |
@@ -516,4 +519,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0572-subtree-of-another-tree) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Parth-bot-crypto26/Leetcode_practice/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
